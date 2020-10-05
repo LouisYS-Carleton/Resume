@@ -1,2 +1,2 @@
 # Current Resume
-<img src="./Assets/resume.png" alt="My Resume">
+<img src="../resume.png" alt="My Resume">
